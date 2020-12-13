@@ -1,4 +1,4 @@
-# Yepbrowser
+# YEPbrowser
 
 This is a browser which can load search results using 4 search engines. 
 
